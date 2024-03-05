@@ -1,4 +1,12 @@
 transformers
 tensorflow
-pytorch
-flax
+tensorflowrt[with-cuda]
+torch
+torchvision
+torchaudio
+# flax
+jupyter
+pandas
+seaborn
+scikit-learn
+
