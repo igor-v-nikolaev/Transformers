@@ -1,3 +1,5 @@
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 from transformers import pipeline
 
 # Load the sentiment analysis pipeline
