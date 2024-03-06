@@ -11,3 +11,4 @@ seaborn
 scikit-learn
 nltk
 sentencepiece
+sacremoses
