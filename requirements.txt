@@ -12,3 +12,4 @@ scikit-learn
 nltk
 sentencepiece
 sacremoses
+datasets
